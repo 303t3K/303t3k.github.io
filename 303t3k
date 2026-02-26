@@ -1,0 +1,12 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>303t3k</title>
+</head>
+<body style="background:black; color:white; text-align:center; font-family:Arial;">
+  <h1>303t3k</h1>
+  <p>Acid / Tribe / Hard Tek</p>
+  <a href="presskit.pdf" style="color:lime;">Download Presskit</a>
+</body>
+</html>
